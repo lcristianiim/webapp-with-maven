@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-4.3.2"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/4.3.2/spring-core-4.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.1.1/jcl-over-slf4j-1.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7.jar" sourcepath="M2_REPO/ch/qos/logback/logback-classic/1.1.7/logback-classic-1.1.7-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7.jar" sourcepath="M2_REPO/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.20/slf4j-api-1.7.20-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-web/4.3.2/spring-web-4.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-webmvc/4.3.2/spring-webmvc-4.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jstl/jstl/1.2/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-aop-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-aop-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-aop-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-aspects-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-aspects-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-aspects-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-beans-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-beans-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-beans-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-context-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-context-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-context-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-context-support-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-context-support-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-context-support-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-core-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-core-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-core-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-expression-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-expression-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-expression-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-instrument-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-instrument-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-instrument-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-instrument-tomcat-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-instrument-tomcat-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-instrument-tomcat-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-jdbc-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-jdbc-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-jdbc-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-jms-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-jms-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-jms-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-messaging-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-messaging-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-messaging-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-orm-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-orm-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-orm-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-oxm-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-oxm-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-oxm-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-test-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-test-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-test-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-tx-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-tx-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-tx-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-web-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-web-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-web-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-webmvc-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-webmvc-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-webmvc-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-webmvc-portlet-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-webmvc-portlet-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-webmvc-portlet-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-websocket-4.3.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-websocket-4.3.2.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/internship/Downloads/spring-framework-4.3.2.RELEASE/libs/spring-websocket-4.3.2.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
